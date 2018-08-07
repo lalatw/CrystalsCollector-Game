@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background-image: url("../images/background.png");
+    background-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+h1 {
+    margin: 15px;
+    color: #66145f;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.title {
+    margin: 5px;
+    color: #102a8f;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#randomnum {
+    margin: 10px;
+    color: #cf5220;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main {
+    margin: 8px;
+    color: darkolivegreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.info {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.images{
+    margin-left: 80px;
+}
+
+.crystals  {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    margin-left: 50px;
+    float: left;
+}
+
+
+.clearfix {
+    clear: both;
+
+}
+
