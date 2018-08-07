@@ -47,7 +47,7 @@ https://lalatw.github.io/CrystalsCollector-Game/
 # Author 
 [Shuhan Laura Lee](https://lalatw.github.io/CrystalsCollector-Game/)
 
-* Portfolio : https://lalatw.github.io/Responsive-Portfolio/
+* Portfolio : https://lalatw.github.io/Responsive-Portfolio/portfolio.html
 
 
 # License
